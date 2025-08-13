@@ -2,6 +2,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+<header>
+  <h1>VZLFF Coin</h1>
+  <img src="coin.png" alt="VZLFF Coin" style="width:200px;margin-top:10px;">
+</header>
+
 contract VuzelffGabberCoin {
     string public name = "Vuzelff Gabber Coin";
     string public symbol = "ZVLFF";
